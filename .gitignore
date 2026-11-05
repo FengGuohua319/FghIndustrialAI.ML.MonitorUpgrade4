@@ -1,0 +1,11 @@
+﻿# 编译输出目录
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 临时文件
+.vs/
+*.user
+*.suo
+
+# 其他临时文件
+*.log
