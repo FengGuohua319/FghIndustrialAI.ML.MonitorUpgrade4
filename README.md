@@ -23,7 +23,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/<你的用户名>/FghIndustrialAI.ML.MonitorUpgrade4.git
+git clone https://github.com/<FengGuohua319>/FghIndustrialAI.ML.MonitorUpgrade4.git
 cd FghIndustrialAI.ML.MonitorUpgrade4
 
 # 直接运行（默认启动内置模拟数据源）
