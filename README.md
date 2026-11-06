@@ -30,3 +30,10 @@ cd FghIndustrialAI.ML.MonitorUpgrade4
 
 # 3. 一键运行（默认启动内置模拟数据源）
 dotnet run
+```
+
+## 📸 运行演示
+
+<p align="center">
+  <img src="demo.gif" alt="运行演示动图" width="800">
+</p>
