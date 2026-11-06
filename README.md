@@ -19,12 +19,14 @@
 
 ## 🚀 快速运行
 
-确保本地安装了 [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)。
+**无需任何本地配置！** 只要确保您的电脑安装了 [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)，即可直接在控制台看到实时数据采集、统计特征打印以及异常尖峰预警（项目默认已开启内置仿真数据源，无需连接真实的 OPC UA 硬件）。
 
 ```bash
-# 克隆项目
-git clone https://github.com/<FengGuohua319>/FghIndustrialAI.ML.MonitorUpgrade4.git
+# 1. 克隆项目
+git clone https://github.com/FengGuohua319/FghIndustrialAI.ML.MonitorUpgrade4.git
+
+# 2. 进入项目目录
 cd FghIndustrialAI.ML.MonitorUpgrade4
 
-# 直接运行（默认启动内置模拟数据源）
+# 3. 一键运行（默认启动内置模拟数据源）
 dotnet run
