@@ -1,4 +1,4 @@
-﻿# 🏭 IndustrialAI.Monitor: 工业设备智能监控与异常预警系统
+﻿# 🏭 FghIndustrialAI.ML.MonitorUpgrade4: 工业设备智能监控与异常预警系统
 
 基于 .NET 8、OPC UA 与 ML.NET 构建的工业级实时监控与异常预警原型系统，专为智能焊接、机械臂等工业场景设计。
 
